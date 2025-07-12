@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to The Wired.</h1>
 
 <div id="user-content-toc">
-  <img align="right" height="600" border-top: src="https://media1.tenor.com/m/axVhGtGySecAAAAd/lain-keyboard.gif">
+  <img align="right" height="450" border-top: src="https://media1.tenor.com/m/axVhGtGySecAAAAd/lain-keyboard.gif">
   
   <div id="toc">
     <ul style="list-style: none;">
@@ -25,12 +25,6 @@
       </summary>
       <summary>
         <h2>who has mistaken reality for the truth.</h2>
-      </summary>
-      <summary>
-        <h2>&nbsp;&nbsp;That is the world that faces us,</h2>
-      </summary>
-      <summary>
-        <h2>a world called "reality".</h2>
       </summary>
     </ul>
   </div>
