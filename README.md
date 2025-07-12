@@ -9,22 +9,22 @@
         <h2>God is here.</h2>
       </summary>
       <summary>
-        <h2>&nbsp;&nbsp;No matter where you are,</h2>
+        <h2><i>&nbsp;&nbsp;No matter where you are,</i></h2>
       </summary>
       <summary>
-        <h2>every one is always connected.</h2>
+        <h2><i>everyone is always connected.</i></h2>
       </summary>
       <summary>
-        <h2>&nbsp;&nbsp;If you're not remembered,</h2>
+        <h2><i>&nbsp;&nbsp;If you're not remembered,</i></h2>
       </summary>
       <summary>
-        <h2>then you never existed.</h2>
+        <h2><i>then you never existed.</i></h2>
       </summary>
       <summary>
-        <h2>&nbsp;&nbsp;It is you,</h2>
+        <h2><i>&nbsp;&nbsp;It is you,</i></h2>
       </summary>
       <summary>
-        <h2>who has mistaken reality for the truth.</h2>
+        <h2><i>who has mistaken reality for the truth.</i></h2>
       </summary>
     </ul>
   </div>
